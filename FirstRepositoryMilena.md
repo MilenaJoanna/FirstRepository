@@ -46,4 +46,16 @@ This is an unordered list:
 - three
 - four
 
+Code
+
+This is a fragment of a code:
+
+`entity a is
+  port (
+    a1 : in std_logic;
+    a2 : in std_logic;
+    a3 : out std_logic
+  );
+end entity;`
+
 
