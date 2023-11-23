@@ -30,6 +30,20 @@ Blockquote
 
 > This is a blockquote.
 
+Ordered list
 
+This is an ordered list:
+1. one 
+2. two
+3. three
+4. four
+
+Unordered list
+
+This is an unordered list:
+- one 
+- two
+- three
+- four
 
 
