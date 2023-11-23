@@ -69,5 +69,14 @@ This is an image of a dolphin:
 
 ![delfin](delfin.png)
 
+Table
+
+This is a table:
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 
