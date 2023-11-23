@@ -63,4 +63,11 @@ Link
 This is a link: [Prognoza pogody](https://www.meteo.pl)
 
 
+Image
+
+This is an image of a dolphin:
+
+![delfin](delfin.png)
+
+
 
