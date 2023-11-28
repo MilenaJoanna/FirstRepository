@@ -118,5 +118,35 @@ This is a table:
 | Paragraph | Text |
 
 
+This is a right-aligned table:
+| Item              | In Stock | Price |
+| ----------------: | ------:  | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+This is a left-aligned table:
+
+| Item              | In Stock | Price |
+| :---------------- | :------  | :---- |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+
+This is a center-aligned table:
+
+| Item              | In Stock | Price |
+| :----------------:| :------: | :----:|
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
 
 
