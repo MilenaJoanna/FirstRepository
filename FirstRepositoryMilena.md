@@ -102,6 +102,12 @@ This is an image of a dolphin:
 
 ![delfin](delfin.png)
 
+## Image with a hover text
+
+This is an image with a hover text:
+
+![This is a dolphin](delfin.png "This is a dolphin") 
+
 ## Table
 
 This is a table:
