@@ -76,6 +76,21 @@ This is a fragment of a code:
   );
 end entity;`
 
+## Fragment of a code within a paragraph
+
+To create paragraphs in Markdown, use one or more lines of consecutive text followed by one or more blank lines.
+ 
+ This is a fragment of a code:
+
+`from random import randint
+ile = int(input("Ile liczb wylosować? "))
+lista = []  # pusta lista
+for i in range(0, ile):
+    lista.append(randint(0, 100))
+print(lista) `
+
+ Note: If you don't leave a blank line between blocks of text, they will be collapsed into a single paragraph.
+
 ## Link
 
 This is a link: [Prognoza pogody](https://www.meteo.pl)
