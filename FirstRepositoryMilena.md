@@ -1,4 +1,4 @@
-- [My first repository about Markdown](#my-first-repository-about-markdown)
+- <!-- omit in toc --> [My first repository about Markdown](#my-first-repository-about-markdown)
   - [Types of headings](#types-of-headings)
 - [heading level 1](#heading-level-1)
   - [heading level 2](#heading-level-2)
