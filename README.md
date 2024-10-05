@@ -1,3 +1,5 @@
+This repository contains basic information about Markdown.
+
 - [My first repository about Markdown](#my-first-repository-about-markdown)
   - [Types of headings](#types-of-headings)
 - [heading level 1](#heading-level-1)
